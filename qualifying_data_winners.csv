@@ -1,0 +1,345 @@
+,qualifyId,raceId,driverId,constructorId,number,position,q1,q2,q3,track,circuitId,year,driver,min time
+0,1,18,1,McLaren,22,1,86.572,85.187,86.714,Australian Grand Prix,1,2008,Lewis Hamilton,85.187
+22,23,19,13,Ferrari,2,1,95.347,94.412,95.748,Malaysian Grand Prix,2,2008,Felipe Massa,94.412
+44,45,20,9,BMW Sauber,4,1,92.893,91.745,93.096,Bahrain Grand Prix,3,2008,Robert Kubica,91.745
+66,67,21,8,Ferrari,1,1,80.701,80.784,81.813,Spanish Grand Prix,4,2008,Kimi RÃ_ikkÃÂ¦nen,80.701
+88,89,22,13,Ferrari,2,1,85.994,86.192,87.617,Turkish Grand Prix,5,2008,Felipe Massa,85.994
+108,109,23,13,Ferrari,2,1,75.19,75.11,75.787,Monaco Grand Prix,6,2008,Felipe Massa,75.11
+128,129,24,1,McLaren,22,1,76.909,77.034,77.886,Canadian Grand Prix,7,2008,Lewis Hamilton,76.909
+148,149,25,8,Ferrari,1,1,75.133,75.161,76.449,French Grand Prix,8,2008,Kimi RÃ_ikkÃÂ¦nen,75.133
+168,169,26,5,McLaren,23,1,79.957,79.597,81.049,British Grand Prix,9,2008,Heikki Kovalainen,79.597
+188,189,27,1,McLaren,22,1,75.218,74.603,75.666,German Grand Prix,10,2008,Lewis Hamilton,74.603
+208,209,28,1,McLaren,22,1,79.376,79.473,80.899,Hungarian Grand Prix,11,2008,Lewis Hamilton,79.376
+228,229,29,13,Ferrari,2,1,98.176,97.859,98.989,European Grand Prix,12,2008,Felipe Massa,97.859
+248,249,30,1,McLaren,22,1,106.887,106.088,107.338,Belgian Grand Prix,13,2008,Lewis Hamilton,106.088
+268,269,31,20,Toro Rosso,15,1,95.464,95.837,97.555,Italian Grand Prix,14,2008,Sebastian Vettel,95.464
+288,289,32,13,Ferrari,2,1,104.519,104.014,104.801,Singapore Grand Prix,15,2008,Felipe Massa,104.014
+308,309,33,1,McLaren,22,1,78.071,77.462,78.404,Japanese Grand Prix,16,2008,Lewis Hamilton,77.462
+328,329,34,1,McLaren,22,1,95.566,94.947,96.303,Chinese Grand Prix,17,2008,Lewis Hamilton,94.947
+348,349,35,13,Ferrari,2,1,71.83,71.875,72.368,Brazilian Grand Prix,18,2008,Felipe Massa,71.83
+368,369,36,8,Ferrari,6,1,86.644,85.644,86.072,Australian Grand Prix,1,2007,Kimi RÃ_ikkÃÂ¦nen,85.644
+390,391,37,13,Ferrari,5,1,95.34,94.454,95.043,Malaysian Grand Prix,2,2007,Felipe Massa,94.454
+412,413,38,13,Ferrari,5,1,92.443,91.359,92.652,Bahrain Grand Prix,3,2007,Felipe Massa,91.359
+434,435,39,13,Ferrari,5,1,81.375,80.597,81.421,Spanish Grand Prix,4,2007,Felipe Massa,80.597
+456,457,40,4,McLaren,1,1,76.059,75.431,75.726,Monaco Grand Prix,6,2007,Fernando Alonso,75.431
+478,479,41,1,McLaren,2,1,76.576,75.486,75.707,Canadian Grand Prix,7,2007,Lewis Hamilton,75.486
+500,501,42,1,McLaren,2,1,72.563,72.065,72.331,United States Grand Prix,19,2007,Lewis Hamilton,72.065
+522,523,43,13,Ferrari,5,1,75.303,74.822,75.034,French Grand Prix,8,2007,Felipe Massa,74.822
+544,545,44,1,McLaren,2,1,79.885,79.4,79.997,British Grand Prix,9,2007,Lewis Hamilton,79.4
+566,567,45,8,Ferrari,6,1,91.522,91.237,91.45,European Grand Prix,20,2007,Kimi RÃ_ikkÃÂ¦nen,91.237
+588,589,46,4,McLaren,1,1,80.425,79.661,79.674,Hungarian Grand Prix,11,2007,Fernando Alonso,79.661
+610,611,47,13,Ferrari,5,1,87.488,87.039,87.329,Turkish Grand Prix,5,2007,Felipe Massa,87.039
+632,633,48,4,McLaren,1,1,81.718,81.356,81.997,Italian Grand Prix,14,2007,Fernando Alonso,81.356
+654,655,49,8,Ferrari,6,1,106.242,105.07,105.994,Belgian Grand Prix,13,2007,Kimi RÃ_ikkÃÂ¦nen,105.07
+676,677,50,1,McLaren,2,1,85.489,84.753,85.368,Japanese Grand Prix,16,2007,Lewis Hamilton,84.753
+698,699,51,1,McLaren,2,1,95.798,95.898,95.908,Chinese Grand Prix,17,2007,Lewis Hamilton,95.798
+720,721,52,13,Ferrari,5,1,72.303,72.374,71.931,Brazilian Grand Prix,18,2007,Felipe Massa,71.931
+742,743,53,30,Ferrari,5,1,93.31,92.025,91.431,Bahrain Grand Prix,3,2006,Michael Schumacher,91.431
+764,765,54,21,Renault,2,1,95.488,93.623,93.84,Malaysian Grand Prix,2,2006,Giancarlo Fisichella,93.623
+786,787,55,18,Honda,12,1,88.081,86.337,85.229,Australian Grand Prix,1,2006,Jenson Button,85.229
+808,809,56,30,Ferrari,5,1,84.598,82.579,82.795,San Marino Grand Prix,21,2006,Michael Schumacher,82.579
+830,831,57,4,Renault,1,1,91.138,90.336,89.816,European Grand Prix,20,2006,Fernando Alonso,89.816
+852,853,58,4,Renault,1,1,75.816,75.124,74.648,Spanish Grand Prix,4,2006,Fernando Alonso,74.648
+874,875,59,4,Renault,1,1,74.232,73.622,73.962,Monaco Grand Prix,6,2006,Fernando Alonso,73.622
+896,897,60,4,Renault,1,1,81.018,80.271,80.253,British Grand Prix,9,2006,Fernando Alonso,80.253
+918,919,61,4,Renault,1,1,75.35,74.726,74.942,Canadian Grand Prix,7,2006,Fernando Alonso,74.726
+940,941,62,30,Ferrari,5,1,71.588,70.636,70.832,United States Grand Prix,19,2006,Michael Schumacher,70.636
+962,963,63,30,Ferrari,5,1,75.865,75.111,75.493,French Grand Prix,8,2006,Michael Schumacher,75.111
+984,985,64,8,McLaren,3,1,75.214,74.41,74.07,German Grand Prix,10,2006,Kimi RÃ_ikkÃÂ¦nen,74.07
+1006,1007,65,8,McLaren,3,1,80.08,79.704,79.599,Hungarian Grand Prix,11,2006,Kimi RÃ_ikkÃÂ¦nen,79.599
+1028,1029,66,13,Ferrari,6,1,87.306,87.059,86.907,Turkish Grand Prix,5,2006,Felipe Massa,86.907
+1050,1051,67,8,McLaren,3,1,81.994,81.349,81.484,Italian Grand Prix,14,2006,Kimi RÃ_ikkÃÂ¦nen,81.349
+1072,1073,68,4,Renault,1,1,104.128,103.951,104.36,Chinese Grand Prix,17,2006,Fernando Alonso,103.951
+1094,1095,69,13,Ferrari,6,1,90.112,89.83,89.599,Japanese Grand Prix,22,2006,Felipe Massa,89.599
+1116,1117,70,13,Ferrari,6,1,70.643,70.775,70.68,Brazilian Grand Prix,18,2006,Felipe Massa,70.643
+1138,1139,77,2,Williams,8,1,90.081,9999.0,9999.0,European Grand Prix,20,2005,Nick Heidfeld,90.081
+1158,1159,78,18,BAR,3,1,75.217,9999.0,9999.0,Canadian Grand Prix,7,2005,Jenson Button,75.217
+1178,1179,79,15,Toyota,16,1,70.625,9999.0,9999.0,United States Grand Prix,19,2005,Jarno Trulli,70.625
+1198,1199,80,4,Renault,5,1,74.412,9999.0,9999.0,French Grand Prix,8,2005,Fernando Alonso,74.412
+1218,1219,81,4,Renault,5,1,79.905,9999.0,9999.0,British Grand Prix,9,2005,Fernando Alonso,79.905
+1238,1239,82,8,McLaren,9,1,74.32,9999.0,9999.0,German Grand Prix,10,2005,Kimi RÃ_ikkÃÂ¦nen,74.32
+1258,1259,83,30,Ferrari,1,1,79.882,9999.0,9999.0,Hungarian Grand Prix,11,2005,Michael Schumacher,79.882
+1278,1279,84,8,McLaren,9,1,86.797,9999.0,9999.0,Turkish Grand Prix,5,2005,Kimi RÃ_ikkÃÂ¦nen,86.797
+1298,1299,85,8,McLaren,9,1,80.878,9999.0,9999.0,Italian Grand Prix,14,2005,Kimi RÃ_ikkÃÂ¦nen,80.878
+1318,1319,86,31,McLaren,10,1,106.391,9999.0,9999.0,Belgian Grand Prix,13,2005,Juan Pablo Montoya,106.391
+1338,1339,87,4,Renault,5,1,71.988,9999.0,9999.0,Brazilian Grand Prix,18,2005,Fernando Alonso,71.988
+1358,1359,88,23,Toyota,17,1,106.106,9999.0,9999.0,Japanese Grand Prix,22,2005,Ralf Schumacher,106.106
+1378,1379,89,4,Renault,5,1,94.08,9999.0,9999.0,Chinese Grand Prix,17,2005,Fernando Alonso,94.08
+1398,1399,104,22,Ferrari,2,1,80.089,9999.0,9999.0,Italian Grand Prix,14,2004,Rubens Barrichello,80.089
+1418,1419,109,4,Renault,8,1,97.044,9999.0,9999.0,Malaysian Grand Prix,2,2003,Fernando Alonso,97.044
+1438,1439,125,30,Ferrari,1,1,95.266,9999.0,9999.0,Malaysian Grand Prix,2,2002,Michael Schumacher,95.266
+1460,1461,140,30,Ferrari,1,1,91.317,9999.0,9999.0,Japanese Grand Prix,22,2002,Michael Schumacher,91.317
+1480,1481,156,30,Ferrari,1,1,71.708,9999.0,9999.0,United States Grand Prix,19,2001,Michael Schumacher,71.708
+1502,1503,158,57,McLaren,1,1,90.556,9999.0,9999.0,Australian Grand Prix,1,2000,Mika HÃ_kkinen,90.556
+1524,1525,160,57,McLaren,1,1,84.714,9999.0,9999.0,San Marino Grand Prix,21,2000,Mika HÃ_kkinen,84.714
+1546,1547,161,22,Ferrari,4,1,85.703,9999.0,9999.0,British Grand Prix,9,2000,Rubens Barrichello,85.703
+1568,1569,173,30,Ferrari,3,1,95.825,9999.0,9999.0,Japanese Grand Prix,22,2000,Michael Schumacher,95.825
+1590,1591,175,57,McLaren,1,1,90.462,9999.0,9999.0,Australian Grand Prix,1,1999,Mika HÃ_kkinen,90.462
+1612,1613,176,57,McLaren,1,1,76.568,9999.0,9999.0,Brazilian Grand Prix,18,1999,Mika HÃ_kkinen,76.568
+1633,1634,177,57,McLaren,1,1,86.362,9999.0,9999.0,San Marino Grand Prix,21,1999,Mika HÃ_kkinen,86.362
+1655,1656,191,57,McLaren,8,1,90.01,9999.0,9999.0,Australian Grand Prix,1,1998,Mika HÃ_kkinen,90.01
+1677,1678,192,57,McLaren,8,1,77.092,9999.0,9999.0,Brazilian Grand Prix,18,1998,Mika HÃ_kkinen,77.092
+1699,1700,193,14,McLaren,7,1,85.852,9999.0,9999.0,Argentine Grand Prix,25,1998,David Coulthard,85.852
+1721,1722,199,57,McLaren,8,1,83.271,9999.0,9999.0,British Grand Prix,9,1998,Mika HÃ_kkinen,83.271
+1743,1744,200,21,Benetton,5,1,89.598,9999.0,9999.0,Austrian Grand Prix,23,1998,Giancarlo Fisichella,89.598
+1765,1766,201,57,McLaren,8,1,101.838,9999.0,9999.0,German Grand Prix,10,1998,Mika HÃ_kkinen,101.838
+1786,1787,203,57,McLaren,8,1,108.682,9999.0,9999.0,Belgian Grand Prix,13,1998,Mika HÃ_kkinen,108.682
+1808,1809,207,35,Williams,3,1,89.369,9999.0,9999.0,Australian Grand Prix,1,1997,Jacques Villeneuve,89.369
+1830,1831,208,35,Williams,3,1,76.004,9999.0,9999.0,Brazilian Grand Prix,18,1997,Jacques Villeneuve,76.004
+1852,1853,209,35,Williams,3,1,84.473,9999.0,9999.0,Argentine Grand Prix,25,1997,Jacques Villeneuve,84.473
+1874,1875,210,35,Williams,3,1,83.303,9999.0,9999.0,San Marino Grand Prix,21,1997,Jacques Villeneuve,83.303
+1896,1897,211,49,Williams,4,1,78.216,9999.0,9999.0,Monaco Grand Prix,6,1997,Heinz-Harald Frentzen,78.216
+1918,1919,212,35,Williams,3,1,76.525,9999.0,9999.0,Spanish Grand Prix,4,1997,Jacques Villeneuve,76.525
+1940,1941,213,30,Ferrari,5,1,78.095,9999.0,9999.0,Canadian Grand Prix,7,1997,Michael Schumacher,78.095
+1962,1963,214,30,Ferrari,5,1,74.548,9999.0,9999.0,French Grand Prix,8,1997,Michael Schumacher,74.548
+1984,1985,215,35,Williams,3,1,81.598,9999.0,9999.0,British Grand Prix,9,1997,Jacques Villeneuve,81.598
+2006,2007,216,77,Benetton,8,1,101.873,9999.0,9999.0,German Grand Prix,10,1997,Gerhard Berger,101.873
+2028,2029,224,35,Williams,6,1,92.371,9999.0,9999.0,Australian Grand Prix,1,1996,Jacques Villeneuve,92.371
+2048,2049,225,71,Williams,5,1,78.111,9999.0,9999.0,Brazilian Grand Prix,18,1996,Damon Hill,78.111
+2070,2071,226,71,Williams,5,1,90.346,9999.0,9999.0,Argentine Grand Prix,25,1996,Damon Hill,90.346
+2092,2093,227,71,Williams,5,1,78.941,9999.0,9999.0,European Grand Prix,20,1996,Damon Hill,78.941
+2112,2113,228,30,Ferrari,1,1,86.89,9999.0,9999.0,San Marino Grand Prix,21,1996,Michael Schumacher,86.89
+2132,2134,229,30,Ferrari,1,1,80.356,9999.0,9999.0,Monaco Grand Prix,6,1996,Michael Schumacher,80.356
+2154,2156,230,71,Williams,5,1,80.65,9999.0,9999.0,Spanish Grand Prix,4,1996,Damon Hill,80.65
+2174,2176,240,71,Williams,5,1,80.081,9999.0,9999.0,Brazilian Grand Prix,18,1995,Damon Hill,80.081
+2200,2202,241,14,Williams,6,1,113.241,9999.0,9999.0,Argentine Grand Prix,25,1995,David Coulthard,113.241
+2226,2228,242,30,Benetton,1,1,87.274,9999.0,9999.0,San Marino Grand Prix,21,1995,Michael Schumacher,87.274
+2252,2254,243,30,Benetton,1,1,81.452,9999.0,9999.0,Spanish Grand Prix,4,1995,Michael Schumacher,81.452
+2278,2280,244,71,Williams,5,1,81.952,9999.0,9999.0,Monaco Grand Prix,6,1995,Damon Hill,81.952
+2304,2306,245,30,Benetton,1,1,87.661,9999.0,9999.0,Canadian Grand Prix,7,1995,Michael Schumacher,87.661
+2328,2330,246,71,Williams,5,1,77.225,9999.0,9999.0,French Grand Prix,8,1995,Damon Hill,77.225
+2352,2354,247,71,Williams,5,1,88.124,9999.0,9999.0,British Grand Prix,9,1995,Damon Hill,88.124
+2376,2378,248,71,Williams,5,1,104.385,9999.0,9999.0,German Grand Prix,10,1995,Damon Hill,104.385
+2400,2402,249,71,Williams,5,1,76.982,9999.0,9999.0,Hungarian Grand Prix,11,1995,Damon Hill,76.982
+2424,2426,250,77,Ferrari,28,1,114.392,9999.0,9999.0,Belgian Grand Prix,13,1995,Gerhard Berger,114.392
+2448,2450,251,14,Williams,6,1,84.462,9999.0,9999.0,Italian Grand Prix,14,1995,David Coulthard,84.462
+2472,2474,252,14,Williams,6,1,80.537,9999.0,9999.0,Portuguese Grand Prix,27,1995,David Coulthard,80.537
+2496,2498,253,14,Williams,6,1,78.738,9999.0,9999.0,European Grand Prix,20,1995,David Coulthard,78.738
+2520,2522,254,14,Williams,6,1,74.013,9999.0,9999.0,Pacific Grand Prix,28,1995,David Coulthard,74.013
+2544,2546,255,30,Benetton,1,1,98.023,9999.0,9999.0,Japanese Grand Prix,22,1995,Michael Schumacher,98.023
+2592,2594,257,102,Williams,2,1,75.962,9999.0,9999.0,Brazilian Grand Prix,18,1994,Ayrton Senna,75.962
+2618,2620,258,102,Williams,2,1,70.218,9999.0,9999.0,Pacific Grand Prix,28,1994,Ayrton Senna,70.218
+2644,2646,259,102,Williams,2,1,81.548,9999.0,9999.0,San Marino Grand Prix,21,1994,Ayrton Senna,81.548
+2672,2674,261,30,Benetton,5,1,81.908,9999.0,9999.0,Spanish Grand Prix,4,1994,Michael Schumacher,81.908
+2698,2700,262,30,Benetton,5,1,86.178,9999.0,9999.0,Canadian Grand Prix,7,1994,Michael Schumacher,86.178
+2724,2726,263,71,Williams,0,1,76.282,9999.0,9999.0,French Grand Prix,8,1994,Damon Hill,76.282
+2750,2752,264,71,Williams,0,1,84.96,9999.0,9999.0,British Grand Prix,9,1994,Damon Hill,84.96
+2776,2778,265,77,Ferrari,28,1,103.582,9999.0,9999.0,German Grand Prix,10,1994,Gerhard Berger,103.582
+2802,2804,266,30,Benetton,5,1,78.258,9999.0,9999.0,Hungarian Grand Prix,11,1994,Michael Schumacher,78.258
+2828,2830,267,22,Jordan,14,1,141.163,9999.0,9999.0,Belgian Grand Prix,13,1994,Rubens Barrichello,141.163
+2854,2856,268,55,Ferrari,27,1,83.844,9999.0,9999.0,Italian Grand Prix,14,1994,Jean Alesi,83.844
+2880,2882,269,77,Ferrari,28,1,80.608,9999.0,9999.0,Portuguese Grand Prix,27,1994,Gerhard Berger,80.608
+2906,2908,270,30,Benetton,5,1,82.762,9999.0,9999.0,European Grand Prix,26,1994,Michael Schumacher,82.762
+2932,2934,271,30,Benetton,5,1,97.209,9999.0,9999.0,Japanese Grand Prix,22,1994,Michael Schumacher,97.209
+2958,2960,272,95,Williams,2,1,76.179,9999.0,9999.0,Australian Grand Prix,29,1994,Nigel Mansell,76.179
+2984,2986,1,18,Brawn,22,1,85.211,84.855,86.202,Australian Grand Prix,1,2009,Jenson Button,84.855
+3004,3006,2,18,Brawn,22,1,95.058,93.784,95.181,Malaysian Grand Prix,2,2009,Jenson Button,93.784
+3024,3026,3,20,Red Bull,15,1,96.565,95.13,96.184,Chinese Grand Prix,17,2009,Sebastian Vettel,95.13
+3044,3046,4,15,Toyota,9,1,92.799,92.671,93.431,Bahrain Grand Prix,3,2009,Jarno Trulli,92.671
+3064,3066,5,18,Brawn,22,1,80.707,80.192,80.527,Spanish Grand Prix,4,2009,Jenson Button,80.192
+3084,3086,6,18,Brawn,22,1,75.21,75.016,74.902,Monaco Grand Prix,6,2009,Jenson Button,74.902
+3104,3106,7,20,Red Bull,15,1,87.33,87.016,88.316,Turkish Grand Prix,5,2009,Sebastian Vettel,87.016
+3124,3126,8,20,Red Bull,15,1,78.685,78.119,79.509,British Grand Prix,9,2009,Sebastian Vettel,78.119
+3144,3146,9,17,Red Bull,14,1,91.257,98.038,92.23,German Grand Prix,20,2009,Mark Webber,91.257
+3164,3166,10,4,Renault,7,1,81.313,80.826,81.569,Hungarian Grand Prix,11,2009,Fernando Alonso,80.826
+3184,3186,11,1,McLaren,1,1,98.649,98.182,99.489,European Grand Prix,12,2009,Lewis Hamilton,98.182
+3204,3206,12,21,Force India,21,1,105.102,104.667,106.308,Belgian Grand Prix,13,2009,Giancarlo Fisichella,104.667
+3224,3226,13,1,McLaren,1,1,83.375,82.973,84.066,Italian Grand Prix,14,2009,Lewis Hamilton,82.973
+3244,3246,14,1,McLaren,1,1,106.977,106.657,107.891,Singapore Grand Prix,15,2009,Lewis Hamilton,106.657
+3264,3266,15,20,Red Bull,15,1,90.883,90.341,92.16,Japanese Grand Prix,22,2009,Sebastian Vettel,90.341
+3284,3286,16,22,Brawn,23,1,84.1,81.659,79.576,Brazilian Grand Prix,18,2009,Rubens Barrichello,79.576
+3304,3306,17,1,McLaren,1,1,99.873,99.695,100.948,Abu Dhabi Grand Prix,24,2009,Lewis Hamilton,99.695
+3324,3326,337,20,Red Bull,5,1,115.029,113.883,114.101,Bahrain Grand Prix,3,2010,Sebastian Vettel,113.883
+3348,3350,338,20,Red Bull,5,1,84.774,84.096,83.919,Australian Grand Prix,1,2010,Sebastian Vettel,83.919
+3372,3374,339,17,Red Bull,6,1,111.886,108.21,109.327,Malaysian Grand Prix,2,2010,Mark Webber,108.21
+3396,3398,340,20,Red Bull,5,1,96.317,95.28,94.558,Chinese Grand Prix,17,2010,Sebastian Vettel,94.558
+3420,3422,341,17,Red Bull,6,1,81.412,80.655,79.995,Spanish Grand Prix,4,2010,Mark Webber,79.995
+3444,3446,342,17,Red Bull,6,1,75.035,74.462,73.826,Monaco Grand Prix,6,2010,Mark Webber,73.826
+3468,3470,343,17,Red Bull,6,1,87.5,86.818,86.295,Turkish Grand Prix,5,2010,Mark Webber,86.295
+3492,3494,344,1,McLaren,2,1,75.889,75.528,75.105,Canadian Grand Prix,7,2010,Lewis Hamilton,75.105
+3516,3518,345,20,Red Bull,5,1,98.324,98.015,97.587,European Grand Prix,12,2010,Sebastian Vettel,97.587
+3540,3542,346,20,Red Bull,5,1,90.841,90.48,89.615,British Grand Prix,9,2010,Sebastian Vettel,89.615
+3564,3566,347,20,Red Bull,5,1,75.152,74.249,73.791,German Grand Prix,10,2010,Sebastian Vettel,73.791
+3588,3590,348,20,Red Bull,5,1,80.417,79.573,78.773,Hungarian Grand Prix,11,2010,Sebastian Vettel,78.773
+3612,3614,349,17,Red Bull,6,1,117.352,107.253,105.778,Belgian Grand Prix,13,2010,Mark Webber,105.778
+3636,3638,350,4,Ferrari,8,1,82.646,82.297,81.962,Italian Grand Prix,14,2010,Fernando Alonso,81.962
+3660,3662,351,4,Ferrari,8,1,106.541,105.809,105.39,Singapore Grand Prix,15,2010,Fernando Alonso,105.39
+3684,3686,352,20,Red Bull,5,1,92.035,91.184,90.785,Japanese Grand Prix,22,2010,Sebastian Vettel,90.785
+3708,3710,353,20,Red Bull,5,1,97.123,96.074,95.585,Korean Grand Prix,35,2010,Sebastian Vettel,95.585
+3732,3734,354,807,Williams,10,1,80.05,79.144,74.47,Brazilian Grand Prix,18,2010,Nico HÃ_lkenberg,74.47
+3756,3758,355,20,Red Bull,5,1,100.318,99.874,99.394,Abu Dhabi Grand Prix,24,2010,Sebastian Vettel,99.394
+3780,3782,108,30,Ferrari,1,1,87.173,9999.0,9999.0,Australian Grand Prix,1,2003,Michael Schumacher,87.173
+3800,3802,110,22,Ferrari,2,1,73.807,9999.0,9999.0,Brazilian Grand Prix,18,2003,Rubens Barrichello,73.807
+3820,3822,111,30,Ferrari,1,1,82.327,9999.0,9999.0,San Marino Grand Prix,21,2003,Michael Schumacher,82.327
+3840,3842,112,30,Ferrari,1,1,77.762,9999.0,9999.0,Spanish Grand Prix,4,2003,Michael Schumacher,77.762
+3860,3862,113,30,Ferrari,1,1,69.15,9999.0,9999.0,Austrian Grand Prix,23,2003,Michael Schumacher,69.15
+3880,3882,114,23,Williams,4,1,75.259,9999.0,9999.0,Monaco Grand Prix,6,2003,Ralf Schumacher,75.259
+3899,3901,115,23,Williams,4,1,75.529,9999.0,9999.0,Canadian Grand Prix,7,2003,Ralf Schumacher,75.529
+3919,3921,116,8,McLaren,6,1,91.523,9999.0,9999.0,European Grand Prix,20,2003,Kimi RÃ_ikkÃÂ¦nen,91.523
+3939,3941,117,23,Williams,4,1,75.019,9999.0,9999.0,French Grand Prix,8,2003,Ralf Schumacher,75.019
+3959,3961,118,22,Ferrari,2,1,81.209,9999.0,9999.0,British Grand Prix,9,2003,Rubens Barrichello,81.209
+3979,3981,119,31,Williams,3,1,75.167,9999.0,9999.0,German Grand Prix,10,2003,Juan Pablo Montoya,75.167
+3999,4001,120,4,Renault,8,1,81.688,9999.0,9999.0,Hungarian Grand Prix,11,2003,Fernando Alonso,81.688
+4019,4021,121,30,Ferrari,1,1,80.963,9999.0,9999.0,Italian Grand Prix,14,2003,Michael Schumacher,80.963
+4039,4041,122,8,McLaren,6,1,71.67,9999.0,9999.0,United States Grand Prix,19,2003,Kimi RÃ_ikkÃÂ¦nen,71.67
+4059,4061,123,22,Ferrari,2,1,91.713,9999.0,9999.0,Japanese Grand Prix,22,2003,Rubens Barrichello,91.713
+4079,4081,90,30,Ferrari,1,1,84.408,9999.0,9999.0,Australian Grand Prix,1,2004,Michael Schumacher,84.408
+4099,4101,91,30,Ferrari,1,1,93.074,9999.0,9999.0,Malaysian Grand Prix,2,2004,Michael Schumacher,93.074
+4119,4121,92,30,Ferrari,1,1,90.139,9999.0,9999.0,Bahrain Grand Prix,3,2004,Michael Schumacher,90.139
+4139,4141,93,18,BAR,9,1,79.753,9999.0,9999.0,San Marino Grand Prix,21,2004,Jenson Button,79.753
+4159,4161,94,30,Ferrari,1,1,75.022,9999.0,9999.0,Spanish Grand Prix,4,2004,Michael Schumacher,75.022
+4179,4181,95,15,Renault,7,1,73.985,9999.0,9999.0,Monaco Grand Prix,6,2004,Jarno Trulli,73.985
+4199,4201,96,30,Ferrari,1,1,88.351,9999.0,9999.0,European Grand Prix,20,2004,Michael Schumacher,88.351
+4219,4221,97,23,Williams,4,1,72.275,9999.0,9999.0,Canadian Grand Prix,7,2004,Ralf Schumacher,72.275
+4239,4241,98,22,Ferrari,2,1,70.223,9999.0,9999.0,United States Grand Prix,19,2004,Rubens Barrichello,70.223
+4259,4261,99,4,Renault,8,1,73.698,9999.0,9999.0,French Grand Prix,8,2004,Fernando Alonso,73.698
+4279,4281,100,8,McLaren,6,1,78.233,9999.0,9999.0,British Grand Prix,9,2004,Kimi RÃ_ikkÃÂ¦nen,78.233
+4299,4301,101,30,Ferrari,1,1,73.306,9999.0,9999.0,German Grand Prix,10,2004,Michael Schumacher,73.306
+4319,4321,102,30,Ferrari,1,1,79.146,9999.0,9999.0,Hungarian Grand Prix,11,2004,Michael Schumacher,79.146
+4339,4341,103,15,Renault,7,1,116.232,9999.0,9999.0,Belgian Grand Prix,13,2004,Jarno Trulli,116.232
+4359,4361,105,22,Ferrari,2,1,94.012,9999.0,9999.0,Chinese Grand Prix,17,2004,Rubens Barrichello,94.012
+4379,4381,106,30,Ferrari,1,1,93.542,9999.0,9999.0,Japanese Grand Prix,22,2004,Michael Schumacher,93.542
+4399,4401,107,22,Ferrari,2,1,70.646,9999.0,9999.0,Brazilian Grand Prix,18,2004,Rubens Barrichello,70.646
+4419,4421,71,21,Renault,6,1,93.171,88.289,9999.0,Australian Grand Prix,1,2005,Giancarlo Fisichella,88.289
+4439,4441,72,4,Renault,5,1,92.582,95.09,9999.0,Malaysian Grand Prix,2,2005,Fernando Alonso,92.582
+4459,4461,73,4,Renault,5,1,89.848,92.054,9999.0,Bahrain Grand Prix,3,2005,Fernando Alonso,89.848
+4479,4481,74,8,McLaren,9,1,79.886,82.994,9999.0,San Marino Grand Prix,21,2005,Kimi RÃ_ikkÃÂ¦nen,79.886
+4499,4501,75,8,McLaren,9,1,74.819,76.602,9999.0,Spanish Grand Prix,4,2005,Kimi RÃ_ikkÃÂ¦nen,74.819
+4517,4519,76,8,McLaren,9,1,73.644,76.681,9999.0,Monaco Grand Prix,6,2005,Kimi RÃ_ikkÃÂ¦nen,73.644
+4535,4537,841,20,Red Bull,1,1,85.296,84.09,83.529,Australian Grand Prix,1,2011,Sebastian Vettel,83.529
+4557,4562,842,20,Red Bull,1,1,97.468,95.934,94.87,Malaysian Grand Prix,2,2011,Sebastian Vettel,94.87
+4583,4586,843,20,Red Bull,1,1,95.674,94.776,93.706,Chinese Grand Prix,17,2011,Sebastian Vettel,93.706
+4607,4610,844,20,Red Bull,1,1,87.039,85.61,85.049,Turkish Grand Prix,5,2011,Sebastian Vettel,85.049
+4630,4633,845,17,Red Bull,2,1,83.619,81.773,80.981,Spanish Grand Prix,4,2011,Mark Webber,80.981
+4653,4656,846,20,Red Bull,1,1,75.606,74.277,73.556,Monaco Grand Prix,6,2011,Sebastian Vettel,73.556
+4677,4680,847,20,Red Bull,1,1,74.011,73.486,73.014,Canadian Grand Prix,7,2011,Sebastian Vettel,73.014
+4701,4704,848,20,Red Bull,1,1,99.116,97.305,96.975,European Grand Prix,12,2011,Sebastian Vettel,96.975
+4725,4728,849,17,Red Bull,2,1,92.67,91.673,90.399,British Grand Prix,9,2011,Mark Webber,90.399
+4749,4752,850,17,Red Bull,2,1,93.096,91.311,90.079,German Grand Prix,20,2011,Mark Webber,90.079
+4773,4776,851,20,Red Bull,1,1,81.74,81.095,79.815,Hungarian Grand Prix,11,2011,Sebastian Vettel,79.815
+4797,4800,852,20,Red Bull,1,1,123.029,123.317,108.298,Belgian Grand Prix,13,2011,Sebastian Vettel,108.298
+4820,4823,854,20,Red Bull,1,1,106.397,104.931,104.381,Singapore Grand Prix,15,2011,Sebastian Vettel,104.381
+4844,4847,855,20,Red Bull,1,1,93.051,91.424,90.466,Japanese Grand Prix,22,2011,Sebastian Vettel,90.466
+4868,4871,856,1,McLaren,3,1,97.525,96.526,95.82,Korean Grand Prix,35,2011,Lewis Hamilton,95.82
+4892,4895,857,20,Red Bull,1,1,86.218,84.657,84.178,Indian Grand Prix,68,2011,Sebastian Vettel,84.178
+4916,4919,858,20,Red Bull,1,1,100.478,98.516,98.481,Abu Dhabi Grand Prix,24,2011,Sebastian Vettel,98.481
+4939,4942,859,20,Red Bull,1,1,73.664,72.446,71.918,Brazilian Grand Prix,18,2011,Sebastian Vettel,71.918
+4963,4966,860,1,McLaren,4,1,86.8,85.626,84.922,Australian Grand Prix,1,2012,Lewis Hamilton,84.922
+4987,4990,861,1,McLaren,4,1,97.813,97.106,96.219,Malaysian Grand Prix,2,2012,Lewis Hamilton,96.219
+5011,5014,862,3,Mercedes,8,1,96.875,95.725,95.121,Chinese Grand Prix,17,2012,Nico Rosberg,95.121
+5035,5038,863,20,Red Bull,1,1,94.308,93.527,92.422,Bahrain Grand Prix,3,2012,Sebastian Vettel,92.422
+5059,5062,864,1,McLaren,4,1,82.583,82.465,81.707,Spanish Grand Prix,4,2012,Lewis Hamilton,81.707
+5083,5086,865,30,Mercedes,7,1,75.873,75.062,74.301,Monaco Grand Prix,6,2012,Michael Schumacher,74.301
+5106,5109,866,20,Red Bull,1,1,74.661,74.187,73.784,Canadian Grand Prix,7,2012,Sebastian Vettel,73.784
+5130,5133,867,20,Red Bull,1,1,99.626,98.53,98.086,European Grand Prix,12,2012,Sebastian Vettel,98.086
+5153,5156,868,4,Ferrari,5,1,106.515,116.921,111.746,British Grand Prix,9,2012,Fernando Alonso,106.515
+5177,5180,869,4,Ferrari,5,1,76.073,98.521,100.621,German Grand Prix,10,2012,Fernando Alonso,76.073
+5201,5204,870,1,McLaren,4,1,81.794,81.06,80.953,Hungarian Grand Prix,11,2012,Lewis Hamilton,80.953
+5225,5228,871,18,McLaren,3,1,109.25,107.654,107.573,Belgian Grand Prix,13,2012,Jenson Button,107.573
+5249,5252,872,1,McLaren,4,1,84.211,84.394,84.01,Italian Grand Prix,14,2012,Lewis Hamilton,84.01
+5272,5275,873,1,McLaren,4,1,108.285,106.665,106.362,Singapore Grand Prix,15,2012,Lewis Hamilton,106.362
+5296,5299,874,20,Red Bull,1,1,92.608,91.501,90.839,Japanese Grand Prix,22,2012,Sebastian Vettel,90.839
+5320,5323,875,17,Red Bull,2,1,98.397,98.22,97.242,Korean Grand Prix,35,2012,Mark Webber,97.242
+5343,5346,876,20,Red Bull,1,1,86.387,85.435,85.283,Indian Grand Prix,68,2012,Sebastian Vettel,85.283
+5367,5370,877,1,McLaren,4,1,101.497,100.901,100.63,Abu Dhabi Grand Prix,24,2012,Lewis Hamilton,100.63
+5391,5394,878,20,Red Bull,1,1,96.558,95.796,95.657,United States Grand Prix,69,2012,Sebastian Vettel,95.657
+5415,5418,879,1,McLaren,4,1,75.075,73.398,72.458,Brazilian Grand Prix,18,2012,Lewis Hamilton,72.458
+5439,5442,880,20,Red Bull,1,1,104.657,96.745,87.407,Australian Grand Prix,1,2013,Sebastian Vettel,87.407
+5461,5464,881,20,Red Bull,1,1,97.899,97.245,109.674,Malaysian Grand Prix,2,2013,Sebastian Vettel,97.245
+5483,5486,882,1,Mercedes,10,1,95.793,95.078,94.484,Chinese Grand Prix,17,2013,Lewis Hamilton,94.484
+5505,5508,883,3,Mercedes,9,1,93.364,92.867,92.33,Bahrain Grand Prix,3,2013,Nico Rosberg,92.33
+5527,5530,884,3,Mercedes,9,1,81.913,81.776,80.718,Spanish Grand Prix,4,2013,Nico Rosberg,80.718
+5549,5552,885,3,Mercedes,9,1,84.62,76.135,73.876,Monaco Grand Prix,6,2013,Nico Rosberg,73.876
+5571,5574,886,20,Red Bull,1,1,82.318,88.166,85.425,Canadian Grand Prix,7,2013,Sebastian Vettel,82.318
+5593,5596,887,1,Mercedes,10,1,90.995,91.224,89.607,British Grand Prix,9,2013,Lewis Hamilton,89.607
+5615,5618,888,1,Mercedes,10,1,91.131,90.152,89.398,German Grand Prix,20,2013,Lewis Hamilton,89.398
+5637,5640,890,1,Mercedes,10,1,80.363,79.862,79.388,Hungarian Grand Prix,11,2013,Lewis Hamilton,79.388
+5659,5662,891,1,Mercedes,10,1,120.368,109.067,121.012,Belgian Grand Prix,13,2013,Lewis Hamilton,109.067
+5681,5684,892,20,Red Bull,1,1,84.319,83.977,83.755,Italian Grand Prix,14,2013,Sebastian Vettel,83.755
+5703,5706,893,20,Red Bull,1,1,105.376,102.905,102.841,Singapore Grand Prix,15,2013,Sebastian Vettel,102.841
+5725,5728,894,20,Red Bull,1,1,98.683,97.569,97.202,Korean Grand Prix,35,2013,Sebastian Vettel,97.202
+5747,5750,895,17,Red Bull,2,1,92.271,91.513,90.915,Japanese Grand Prix,22,2013,Mark Webber,90.915
+5769,5772,896,20,Red Bull,1,1,85.943,84.568,84.119,Indian Grand Prix,68,2013,Sebastian Vettel,84.119
+5791,5794,897,17,Red Bull,2,1,101.568,100.575,99.957,Abu Dhabi Grand Prix,24,2013,Mark Webber,99.957
+5813,5816,898,20,Red Bull,1,1,98.516,97.065,96.338,United States Grand Prix,69,2013,Sebastian Vettel,96.338
+5835,5838,899,20,Red Bull,1,1,85.381,86.42,86.479,Brazilian Grand Prix,18,2013,Sebastian Vettel,85.381
+5857,5860,900,1,Mercedes,44,1,91.699,102.89,104.231,Australian Grand Prix,1,2014,Lewis Hamilton,91.699
+5879,5882,901,1,Mercedes,44,1,117.202,119.041,119.431,Malaysian Grand Prix,2,2014,Lewis Hamilton,117.202
+5901,5904,902,3,Mercedes,6,1,95.439,93.708,93.185,Bahrain Grand Prix,3,2014,Nico Rosberg,93.185
+5923,5926,853,20,Red Bull,1,1,84.002,82.914,82.275,Italian Grand Prix,14,2011,Sebastian Vettel,82.275
+5947,5950,903,1,Mercedes,44,1,115.516,114.029,113.86,Chinese Grand Prix,17,2014,Lewis Hamilton,113.86
+5969,5972,904,1,Mercedes,44,1,87.238,86.21,85.232,Spanish Grand Prix,4,2014,Lewis Hamilton,85.232
+5991,5994,905,3,Mercedes,6,1,77.678,76.465,75.989,Monaco Grand Prix,6,2014,Nico Rosberg,75.989
+6013,6016,906,3,Mercedes,6,1,76.471,75.289,74.874,Canadian Grand Prix,7,2014,Nico Rosberg,74.874
+6035,6038,907,13,Williams,19,1,70.292,69.239,68.759,Austrian Grand Prix,70,2014,Felipe Massa,68.759
+6057,6060,908,3,Mercedes,6,1,100.38,95.179,95.766,British Grand Prix,9,2014,Nico Rosberg,95.179
+6079,6082,909,3,Mercedes,6,1,77.631,77.109,76.54,German Grand Prix,10,2014,Nico Rosberg,76.54
+6101,6104,910,3,Mercedes,6,1,85.227,83.31,82.715,Hungarian Grand Prix,11,2014,Nico Rosberg,82.715
+6123,6126,911,3,Mercedes,6,1,127.13,126.723,125.591,Belgian Grand Prix,13,2014,Nico Rosberg,125.591
+6145,6148,912,1,Mercedes,44,1,85.363,84.56,84.109,Italian Grand Prix,14,2014,Lewis Hamilton,84.109
+6167,6170,913,1,Mercedes,44,1,106.921,106.287,105.681,Singapore Grand Prix,15,2014,Lewis Hamilton,105.681
+6189,6192,914,3,Mercedes,6,1,93.671,92.95,92.506,Japanese Grand Prix,22,2014,Nico Rosberg,92.506
+6211,6214,915,1,Mercedes,44,1,98.759,98.338,98.513,Russian Grand Prix,71,2014,Lewis Hamilton,98.338
+6232,6235,916,3,Mercedes,6,1,98.303,96.29,96.067,United States Grand Prix,69,2014,Nico Rosberg,96.067
+6250,6253,917,3,Mercedes,6,1,70.347,70.303,70.023,Brazilian Grand Prix,18,2014,Nico Rosberg,70.023
+6282,6291,918,3,Mercedes,6,1,101.308,101.459,100.48,Abu Dhabi Grand Prix,24,2014,Nico Rosberg,100.48
+6286,6309,926,1,Mercedes,44,1,88.586,86.894,86.327,Australian Grand Prix,1,2015,Lewis Hamilton,86.327
+6304,6327,927,1,Mercedes,44,1,99.269,101.517,109.834,Malaysian Grand Prix,2,2015,Lewis Hamilton,99.269
+6323,6346,928,1,Mercedes,44,1,98.285,96.423,95.782,Chinese Grand Prix,17,2015,Lewis Hamilton,95.782
+6343,6366,929,1,Mercedes,44,1,93.928,92.669,92.571,Bahrain Grand Prix,3,2015,Lewis Hamilton,92.571
+6362,6385,930,3,Mercedes,6,1,86.49,85.166,84.681,Spanish Grand Prix,4,2015,Nico Rosberg,84.681
+6382,6405,931,1,Mercedes,44,1,76.588,75.864,75.098,Monaco Grand Prix,6,2015,Lewis Hamilton,75.098
+6402,6425,932,1,Mercedes,44,1,75.895,74.661,74.393,Canadian Grand Prix,7,2015,Lewis Hamilton,74.393
+6421,6444,933,1,Mercedes,44,1,72.218,69.062,68.455,Austrian Grand Prix,70,2015,Lewis Hamilton,68.455
+6441,6464,934,1,Mercedes,44,1,93.796,93.068,92.248,British Grand Prix,9,2015,Lewis Hamilton,92.248
+6461,6484,936,1,Mercedes,44,1,82.89,82.285,82.02,Hungarian Grand Prix,11,2015,Lewis Hamilton,82.02
+6481,6504,937,1,Mercedes,44,1,108.908,108.024,107.197,Belgian Grand Prix,13,2015,Lewis Hamilton,107.197
+6501,6524,938,1,Mercedes,44,1,84.251,83.383,83.397,Italian Grand Prix,14,2015,Lewis Hamilton,83.383
+6521,6544,939,20,Ferrari,5,1,106.017,104.743,103.885,Singapore Grand Prix,15,2015,Sebastian Vettel,103.885
+6541,6564,940,3,Mercedes,6,1,93.015,92.632,92.584,Japanese Grand Prix,22,2015,Nico Rosberg,92.584
+6561,6584,941,3,Mercedes,6,1,98.343,97.5,97.113,Russian Grand Prix,71,2015,Nico Rosberg,97.113
+6580,6603,942,3,Mercedes,6,1,116.671,116.824,9999.0,United States Grand Prix,69,2015,Nico Rosberg,116.671
+6600,6623,943,3,Mercedes,6,1,80.436,80.053,79.48,Mexican Grand Prix,32,2015,Nico Rosberg,79.48
+6620,6643,944,3,Mercedes,6,1,71.746,72.213,71.282,Brazilian Grand Prix,18,2015,Nico Rosberg,71.282
+6640,6663,945,3,Mercedes,6,1,101.111,100.979,100.237,Abu Dhabi Grand Prix,24,2015,Nico Rosberg,100.237
+6660,6683,948,1,Mercedes,44,1,85.351,84.605,83.837,Australian Grand Prix,1,2016,Lewis Hamilton,83.837
+6682,6705,949,1,Mercedes,44,1,91.391,90.039,89.493,Bahrain Grand Prix,3,2016,Lewis Hamilton,89.493
+6704,6727,950,3,Mercedes,6,1,97.669,96.24,95.402,Chinese Grand Prix,17,2016,Nico Rosberg,95.402
+6726,6749,951,3,Mercedes,6,1,96.119,95.337,95.417,Russian Grand Prix,71,2016,Nico Rosberg,95.337
+6748,6771,952,1,Mercedes,44,1,83.214,82.159,82.0,Spanish Grand Prix,4,2016,Lewis Hamilton,82.0
+6770,6793,953,817,Red Bull,3,1,74.912,74.357,73.622,Monaco Grand Prix,6,2016,Daniel Ricciardo,73.622
+6792,6815,954,1,Mercedes,44,1,74.121,73.076,72.812,Canadian Grand Prix,7,2016,Lewis Hamilton,72.812
+6813,6836,955,3,Mercedes,6,1,103.685,102.52,102.758,European Grand Prix,73,2016,Nico Rosberg,102.52
+6835,6858,956,1,Mercedes,44,1,66.947,66.228,67.922,Austrian Grand Prix,70,2016,Lewis Hamilton,66.228
+6857,6880,957,1,Mercedes,44,1,90.739,89.243,89.287,British Grand Prix,9,2016,Lewis Hamilton,89.243
+6878,6901,958,3,Mercedes,6,1,93.302,82.806,79.965,Hungarian Grand Prix,11,2016,Nico Rosberg,79.965
+6900,6923,959,3,Mercedes,6,1,75.485,74.839,74.363,German Grand Prix,10,2016,Nico Rosberg,74.363
+6922,6945,960,3,Mercedes,6,1,108.019,106.999,106.744,Belgian Grand Prix,13,2016,Nico Rosberg,106.744
+6943,6966,961,1,Mercedes,44,1,81.854,81.498,81.135,Italian Grand Prix,14,2016,Lewis Hamilton,81.135
+6964,6987,962,3,Mercedes,6,1,105.316,103.02,102.584,Singapore Grand Prix,15,2016,Nico Rosberg,102.584
+6986,7009,963,1,Mercedes,44,1,94.444,93.046,92.85,Malaysian Grand Prix,2,2016,Lewis Hamilton,92.85
+7008,7031,964,3,Mercedes,6,1,91.858,90.714,90.647,Japanese Grand Prix,22,2016,Nico Rosberg,90.647
+7030,7053,965,1,Mercedes,44,1,96.296,96.45,94.999,United States Grand Prix,69,2016,Lewis Hamilton,94.999
+7052,7075,966,1,Mercedes,44,1,79.447,79.137,78.704,Mexican Grand Prix,32,2016,Lewis Hamilton,78.704
+7073,7096,967,1,Mercedes,44,1,71.511,71.238,70.736,Brazilian Grand Prix,18,2016,Lewis Hamilton,70.736
+7095,7118,968,1,Mercedes,44,1,99.487,99.382,98.755,Abu Dhabi Grand Prix,24,2016,Lewis Hamilton,98.755
+7117,7140,969,1,Mercedes,44,1,84.191,83.251,82.188,Australian Grand Prix,1,2017,Lewis Hamilton,82.188
+7137,7160,970,1,Mercedes,44,1,93.333,92.406,91.678,Chinese Grand Prix,17,2017,Lewis Hamilton,91.678
+7157,7180,971,822,Mercedes,77,1,91.041,89.555,88.769,Bahrain Grand Prix,3,2017,Valtteri Bottas,88.769
+7177,7200,972,20,Ferrari,5,1,94.493,94.038,93.194,Russian Grand Prix,71,2017,Sebastian Vettel,93.194
+7197,7220,973,1,Mercedes,44,1,80.511,80.21,79.149,Spanish Grand Prix,4,2017,Lewis Hamilton,79.149
+7217,7240,974,8,Ferrari,7,1,73.117,72.231,72.178,Monaco Grand Prix,6,2017,Kimi RÃ_ikkÃÂ¦nen,72.178
+7237,7260,975,1,Mercedes,44,1,72.692,72.496,71.459,Canadian Grand Prix,7,2017,Lewis Hamilton,71.459
+7257,7280,976,1,Mercedes,44,1,101.983,101.275,100.593,Azerbaijan Grand Prix,73,2017,Lewis Hamilton,100.593
+7277,7300,977,822,Mercedes,77,1,65.76,64.316,64.251,Austrian Grand Prix,70,2017,Valtteri Bottas,64.251
+7297,7320,978,1,Mercedes,44,1,99.069,87.893,86.6,British Grand Prix,9,2017,Lewis Hamilton,86.6
+7317,7340,979,20,Ferrari,5,1,77.244,76.802,76.276,Hungarian Grand Prix,11,2017,Sebastian Vettel,76.276
+7337,7360,980,1,Mercedes,44,1,104.184,102.927,102.553,Belgian Grand Prix,13,2017,Lewis Hamilton,102.553
+7357,7380,981,1,Mercedes,44,1,96.009,94.66,95.554,Italian Grand Prix,14,2017,Lewis Hamilton,94.66
+7377,7400,982,20,Ferrari,5,1,103.336,100.529,99.491,Singapore Grand Prix,15,2017,Sebastian Vettel,99.491
+7397,7420,983,1,Mercedes,44,1,91.605,90.977,90.076,Malaysian Grand Prix,2,2017,Lewis Hamilton,90.076
+7417,7440,984,1,Mercedes,44,1,89.047,87.819,87.319,Japanese Grand Prix,22,2017,Lewis Hamilton,87.319
+7437,7460,985,1,Mercedes,44,1,94.822,93.437,93.108,United States Grand Prix,69,2017,Lewis Hamilton,93.108
+7457,7480,986,20,Ferrari,5,1,77.665,76.87,76.488,Mexican Grand Prix,32,2017,Sebastian Vettel,76.488
+7476,7499,987,822,Mercedes,77,1,69.452,68.638,68.322,Brazilian Grand Prix,18,2017,Valtteri Bottas,68.322
+7495,7520,988,822,Mercedes,77,1,97.356,96.822,96.231,Abu Dhabi Grand Prix,24,2017,Valtteri Bottas,96.231
